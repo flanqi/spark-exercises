@@ -1,0 +1,18 @@
+First Half of Year 2008.00, MAPE: 93.51
+First Half of Year 2008.00, MAPE: 93.67
+First Half of Year 2009.00, MAPE: 106.93
+First Half of Year 2009.00, MAPE: 94.71
+First Half of Year 2010.00, MAPE: 89.18
+First Half of Year 2010.00, MAPE: 117.82
+First Half of Year 2011.00, MAPE: 97.01
+First Half of Year 2011.00, MAPE: 87.77
+First Half of Year 2012.00, MAPE: 96.49
+First Half of Year 2012.00, MAPE: 89.80
+First Half of Year 2013.00, MAPE: 92.46
+First Half of Year 2013.00, MAPE: 77.91
+First Half of Year 2014.00, MAPE: 59.48
+First Half of Year 2014.00, MAPE: 98.14
+First Half of Year 2015.00, MAPE: 102.80
+Average MAPE: 93.18
+Minimum MAPE: 59.48
+Maximum MAPE: 117.82
