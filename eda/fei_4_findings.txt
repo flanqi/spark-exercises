@@ -1,0 +1,10 @@
+In this question, I used sum to perform all the aggregations.
+
+[Monthly]
+We could see that there is slightly more crime cases during the summer than winter, but no strong trend is seen.
+
+[Weekly]
+It seems that we have more crime cases in the middle of the week than on the weekends.
+
+[Hourly]
+We could see that the number of crime cases increases from the beginning of the day and reaches its first peak in the middle of the day and then decreases to a local minimum around off-work time. Then the number goes up again at late night and decreases again. The highest number of crimes occurs around 8 pm and the lowest number of crimes occurs around 5 am.

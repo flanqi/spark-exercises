@@ -1,0 +1,1 @@
+We see that, as month increases, there is increasing pattern in the average number of crimes per month, and it reaches the highest upon summer time at July, before decreasing again. In general, we see more crimes in summer than in winter.

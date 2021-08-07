@@ -1,0 +1,8 @@
+Part 1
+See fei_2_1.txt for the top 10 list.
+
+Part 2
+Based on the output file fei_2_2.txt and the map, the two adjacent beats with the highest correlation are (0714, 0825) (Note that two beats are not considered adjacent if they only touch on one point).
+
+Part 3
+In this question, a 2-sample t-test with unequal variance is performed on the yearly number of crimes for the two mayors. The t-statistics printed during code execution is -9.252849094723437. So based on this result, we could conclude that there is significant difference in terms of yearly number of crimes between two mayors.

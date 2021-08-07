@@ -1,0 +1,10 @@
+Overall MAPE: 152.38748425018215
+MAPE for Violent Crimes: 177.4966722095173
+MAPE for non-Violent Crimes: 150.29956869884984
+
+[Side Notes]
+I consider a beat at a given week is a beat of violent crimes if above half of its crime cases are arrested.
+
+Above are the MAPE(%) results when I use external dataset. However, if I drop the feature extracted from the external dataset, the performance is actually better, with about 30% MAPE for three all categories. 
+
+But here I am only submitting the metrics I got when incorporating the external dataset for grading purpose. 
